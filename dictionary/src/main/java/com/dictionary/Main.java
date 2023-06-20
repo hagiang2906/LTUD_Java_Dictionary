@@ -29,7 +29,7 @@ public class Main {
          SlangMaps.readFromFile(slangPath);
         String out = "";
         while(!"e".equals(out)){
-            System.out.println("1. Find with slang word");
+            System.out.println("1. Find with slang word !");
             System.out.println("2. Find with definition");
             System.out.println("3. Show history");
             System.out.println("4. Add new slang word");
