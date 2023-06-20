@@ -123,19 +123,19 @@ public class SlangMaps {
         }
     }
     public void backUp() {
-        System.out.println("\n1. Set this slang word list as origin.");
-        System.out.println("2. Reset to origin.");
-        System.out.print("Your choose: ");
-        String choose = keyboard.nextLine();
-        if(choose.equals("1")){
-            truncateFile(slangOriginPath);
-            System.out.println("Successfully !");
-        }else{
+        //System.out.println("\n1. Set this slang word list as origin.");
+        //System.out.println("2. Reset to origin.");
+        //System.out.print("Your choose: ");
+        //String choose = keyboard.nextLine();
+        //if(choose.equals("1")){
+        //    truncateFile(slangOriginPath);
+        //    System.out.println("Successfully !");
+        //}else{
             slangMap.clear();
-            readFromFile(slangPath);
-            truncateFile(slangPath);
+            readFromFile(slangOriginPath);
+            //truncateFile(slangPath);
             System.out.println("Successfully !");
-        }
+        //}
     }
     public  ArrayList<String> findWitdValue(String value) {
         ArrayList<String> keySet = new ArrayList<String>();
