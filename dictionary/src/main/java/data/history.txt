@@ -1,0 +1,108 @@
+angry : ----------------------------------------
+Slang : angry
+Definition : null
+----------------------------------------
+
+happy : ----------------------------------------
+Slang : happy
+Definition : null
+----------------------------------------
+
+----------------------------------------
+Slang : :(
+Definition : Unhappy| sad
+----------------------------------------
+ : Unhappy| sad----------------------------------------
+Slang : >3
+Definition : Evil but happy|Hate
+----------------------------------------
+ : Evil but happy|Hate----------------------------------------
+Slang : C:
+Definition : Very happy
+----------------------------------------
+ : Very happy----------------------------------------
+Slang : :DD
+Definition : Very happy
+----------------------------------------
+ : Very happy----------------------------------------
+Slang : STOKED
+Definition : Very happy| excited
+----------------------------------------
+ : Very happy| excited----------------------------------------
+Slang : .-.
+Definition : Sad| unhappy
+----------------------------------------
+ : Sad| unhappy>> : ----------------------------------------
+Slang : >>
+Definition : cc
+----------------------------------------
+
+>,< : ----------------------------------------
+Slang : >,<
+Definition : Angry| annoyed
+----------------------------------------
+
+----------------------------------------
+Slang : PISSED OFF
+Definition : Mad| angry
+----------------------------------------
+ : Mad| angry----------------------------------------
+Slang : GUH
+Definition : Annoyed| angry
+----------------------------------------
+ : Annoyed| angry----------------------------------------
+Slang : >.<
+Definition : Frustrated| angry| upset| in pain
+----------------------------------------
+ : Frustrated| angry| upset| in pain----------------------------------------
+Slang : DROVE
+Definition : Mad| angry
+----------------------------------------
+ : Mad| angry>,< : -----------------------------------------------------
+Slang : >,<
+Definition : Angry| annoyed
+
+>,< : -----------------------------------------------------
+Slang : >,<
+Definition : Angry| annoyed
+
+-----------------------------------------------------
+Slang : PISSED OFF
+Definition : Mad| angry
+ : Mad| angry-----------------------------------------------------
+Slang : GUH
+Definition : Annoyed| angry
+ : Annoyed| angry-----------------------------------------------------
+Slang : >.<
+Definition : Frustrated| angry| upset| in pain
+ : Frustrated| angry| upset| in pain-----------------------------------------------------
+Slang : DROVE
+Definition : Mad| angry
+ : Mad| angry:)) : -----------------------------------------------------
+Slang : :))
+Definition : null
+
+:)) : -----------------------------------------------------
+Slang : :))
+Definition : hahahaha
+
+BBB : -----------------------------------------------------
+Slang : BBB
+Definition : Bugging Beyond Belief
+
+BBC : -----------------------------------------------------
+Slang : BBC
+Definition : British Broadcasting Corporation
+
+oo : -----------------------------------------------------
+Slang : oo
+Definition : pp
+
+pp : -----------------------------------------------------
+Slang : pp
+Definition : uu
+
+pp : -----------------------------------------------------
+Slang : pp
+Definition : null
+
